@@ -1,0 +1,2 @@
+CREATE DATABASE customer;
+DROP DATABASE customer;
